@@ -31,14 +31,14 @@
       </td>
     </tr>
     <tr align="center">
-      <td>
-        <b>Team Member</b>
+     <td>
+        <h3 style="margin: 2px 0;"> <b>TEAM Member</b></h3>
       </td>
       <td>
-        <b>Adinath Patil</b>
+        <h2 style="margin: 2px 0;"><ins><b>Adinath Patil</b></ins></h2>
       </td>
       <td>
-        <code>BT25CSA067</code>
+        <h3 style="margin: 2px 0;"><code>BT25CSA067</code></h3>
       </td>
     </tr>
   </tbody>
