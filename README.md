@@ -21,13 +21,13 @@
   <tbody>
     <tr align="center">
       <td>
-        <h3 style="margin: 4px 0;"> <b>TEAM LEAD</b></h3>
+        <h3 style="margin: 2px 0;"> <b>TEAM LEAD</b></h3>
       </td>
       <td>
-        <h2 style="margin: 4px 0;"><ins><b>Vinay Kumrawat</b></ins></h2>
+        <h2 style="margin: 2px 0;"><ins><b>Vinay Kumrawat</b></ins></h2>
       </td>
       <td>
-        <h3 style="margin: 4px 0;"><code>BT25CSE159</code></h3>
+        <h3 style="margin: 2px 0;"><code>BT25CSE159</code></h3>
       </td>
     </tr>
     <tr align="center">
